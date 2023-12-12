@@ -9,12 +9,14 @@ const FeatureList = [
     description: (
       <>
         Use these class notes for your revisions.
-        <br />
-        <ul className={styles.listItem}>
-          <li><a href="/docs/category/1-intro">Intro to Digital Society</a></li>
+        <br /><br />
+        <ol className={styles.listItem}>
+          <li><a href="/docs/1-Intro">Intro to Digital Society</a></li>
           <li><a href="/docs/category/2-concepts">Concepts</a></li>
           <li><a href="/docs/category/3-content">Content</a></li>
-        </ul>
+          <li><a href="/docs/category/4-contexts">Contexts</a></li>
+        </ol>
+        <a href="https://www.freepik.com/free-vector/student-guy-studying-internet-watching-online-lecture-computer-talking-math-tutor-through-video-call-cartoon-illustration_12699851.htm#query=textbook&position=22&from_view=search&track=sph&uuid=6facc644-8780-4925-86ae-2507a197ec3e">Image by pch.vector</a> on Freepik
       </>
     ),
   },
@@ -23,8 +25,11 @@ const FeatureList = [
     Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
-        Keep up to date with the latest Digital Society news and resources. 
+        Keep up to date with the latest Digital Society news and resources.
+        <br /><br /> 
+        <a href="https://www.freepik.com/free-vector/hand-holding-smartphones-with-online-newspaper-newsletter-weblog_20827768.htm#query=news&position=2&from_view=search&track=sph&uuid=f9c13221-c28e-4637-9f21-8a00042ba6b9">Image by pch.vector</a> on Freepik
       </>
+      
     ),
   },
   {
@@ -33,6 +38,8 @@ const FeatureList = [
     description: (
       <>
         Tips, Past exam questions. 
+        <br /><br />
+        🔜 Coming soon.
       </>
     ),
   },

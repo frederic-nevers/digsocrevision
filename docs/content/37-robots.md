@@ -7,21 +7,7 @@ tags:
 ---
 ## Video explainer
 
-```mermaid
-graph TD
-    A[Start] --> B[Student attempts a math question]
-    B --> C{Is the answer correct?}
-    C -->|Yes| D[Increase difficulty level]
-    C -->|No| E[Keep current difficulty level]
-    D --> F[Present a more difficult question]
-    E --> G[Present a similar difficulty question]
-    F --> H{Is the answer correct?}
-    G --> I{Is the answer correct?}
-    H -->|Yes| J[Continue increasing difficulty]
-    H -->|No| K[Adjust difficulty level]
-    I -->|Yes| L[Consider increasing difficulty level]
-    I -->|No| M[Consider reducing difficulty]
-```
+
 
 
 ## Mindmap

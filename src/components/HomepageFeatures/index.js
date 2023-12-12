@@ -4,32 +4,35 @@ import styles from './styles.module.css';
 
 const FeatureList = [
   {
-    title: 'Easy to Use',
+    title: 'Class Notes',
     Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        Use these class notes for your revisions.
+        <br />
+        <ul className={styles.listItem}>
+          <li><a href="/docs/category/1-intro">Intro to Digital Society</a></li>
+          <li><a href="/docs/category/2-concepts">Concepts</a></li>
+          <li><a href="/docs/category/3-content">Content</a></li>
+        </ul>
       </>
     ),
   },
   {
-    title: 'Focus on What Matters',
+    title: 'News and resources',
     Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        Keep up to date with the latest Digital Society news and resources. 
       </>
     ),
   },
   {
-    title: 'Powered by React',
+    title: 'Prepare for your exams',
     Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        Tips, Past exam questions. 
       </>
     ),
   },

@@ -84,7 +84,7 @@ const config = {
             position: 'left',
             label: 'Class Notes',
           },
-          // {to: '/blog', label: 'Blog', position: 'left'},
+          {to: '/blog', label: 'News and resources', position: 'left'},
           {
             href: 'https://github.com/frederic-nevers/digsocrevision',
             label: 'GitHub',

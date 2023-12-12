@@ -14,8 +14,8 @@ const config = {
   },
   themes: ['@docusaurus/theme-mermaid'],
 
-  title: 'My Site',
-  tagline: 'Dinosaurs are cool',
+  title: 'Mr Nevers Digital Society',
+  tagline: 'Digital Society Class Notes',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
@@ -50,7 +50,7 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+            'https://github.com/frederic-nevers/digsocrevision',
         },
         blog: {
           showReadingTime: true,
@@ -72,9 +72,9 @@ const config = {
       // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
-        title: 'My Site',
+        title: 'Mr Nevers Digital Society',
         logo: {
-          alt: 'My Site Logo',
+          alt: 'Digital Society Logo',
           src: 'img/logo.svg',
         },
         items: [
@@ -82,11 +82,11 @@ const config = {
             type: 'docSidebar',
             sidebarId: 'tutorialSidebar',
             position: 'left',
-            label: 'Tutorial',
+            label: 'Class Notes',
           },
-          {to: '/blog', label: 'Blog', position: 'left'},
+          // {to: '/blog', label: 'Blog', position: 'left'},
           {
-            href: 'https://github.com/facebook/docusaurus',
+            href: 'https://github.com/frederic-nevers/digsocrevision',
             label: 'GitHub',
             position: 'right',
           },
@@ -96,46 +96,16 @@ const config = {
         style: 'dark',
         links: [
           {
-            title: 'Docs',
+            title: 'Class Notes',
             items: [
               {
-                label: 'Tutorial',
+                label: 'Revision',
                 to: '/docs/intro',
               },
             ],
           },
-          {
-            title: 'Community',
-            items: [
-              {
-                label: 'Stack Overflow',
-                href: 'https://stackoverflow.com/questions/tagged/docusaurus',
-              },
-              {
-                label: 'Discord',
-                href: 'https://discordapp.com/invite/docusaurus',
-              },
-              {
-                label: 'Twitter',
-                href: 'https://twitter.com/docusaurus',
-              },
-            ],
-          },
-          {
-            title: 'More',
-            items: [
-              {
-                label: 'Blog',
-                to: '/blog',
-              },
-              {
-                label: 'GitHub',
-                href: 'https://github.com/facebook/docusaurus',
-              },
-            ],
-          },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} Frederic Nevers. Logo by <a href="https://www.freepik.com/free-vector/augmented-reality-concept_11376088.htm#query=future%20computer&position=2&from_view=search&track=ais&uuid=c68767d1-1627-468d-8dda-876ac43281ba">Image by pikisuperstar</a> on Freepik`,
       },
       prism: {
         theme: prismThemes.github,

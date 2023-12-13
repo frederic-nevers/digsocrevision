@@ -39,7 +39,11 @@ const FeatureList = [
       <>
         Tips, Past exam questions. 
         <br /><br />
-        🔜 Coming soon.
+        <ol className={styles.listItem}>
+          <li><a href="/docs/exams/1-paper-1">Paper 1</a></li>
+          <li><a href="/docs/exams/2-paper-2">Paper 2</a></li>
+          <li><a href="/docs/exams/3-ia">Internal Assessment</a></li>
+        </ol>
       </>
     ),
   },

@@ -44,6 +44,8 @@ const FeatureList = [
           <li><a href="/docs/exams/2-paper-2">Paper 2</a></li>
           <li><a href="/docs/exams/3-ia">Internal Assessment</a></li>
         </ol>
+        <br /><br />
+        <a href="https://www.freepik.com/free-vector/online-education-concept_10717808.htm#query=exam&position=5&from_view=search&track=sph&uuid=8e1b3d6f-3d7f-4b9f-9d9f-0f7f0b9f9b8b">Image by pch.vector</a> on Freepik
       </>
     ),
   },

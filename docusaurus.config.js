@@ -4,7 +4,7 @@
 // There are various equivalent ways to declare your Docusaurus config.
 // See: https://docusaurus.io/docs/api/docusaurus-config
 
-import {themes as prismThemes} from 'prism-react-renderer';
+import { themes as prismThemes } from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
@@ -82,9 +82,10 @@ const config = {
             type: 'docSidebar',
             sidebarId: 'tutorialSidebar',
             position: 'left',
-            label: 'Class Notes',
+            label: '📝 Class Notes',
           },
-          {to: '/blog', label: 'News and resources', position: 'left'},
+          { to: '/docs/news', label: '🗞️ News', position: 'left' },
+          { to: '/docs/resources', label: '🎬 Resources', position: 'left' },
           {
             href: 'https://github.com/frederic-nevers/digsocrevision',
             label: 'GitHub',
@@ -94,17 +95,17 @@ const config = {
       },
       footer: {
         style: 'dark',
-        links: [
-          {
-            title: 'Class Notes',
-            items: [
-              {
-                label: 'Revision',
-                to: '/docs/1-Intro',
-              },
-            ],
-          },
-        ],
+        // links: [
+        //   {
+        //     title: 'Class Notes',
+        //     items: [
+        //       {
+        //         label: 'Revision',
+        //         to: '/docs/1-Intro',
+        //       },
+        //     ],
+        //   },
+        // ],
         copyright: `Copyright © ${new Date().getFullYear()} Frederic Nevers. Logo by <a href="https://www.freepik.com/free-vector/augmented-reality-concept_11376088.htm#query=future%20computer&position=2&from_view=search&track=ais&uuid=c68767d1-1627-468d-8dda-876ac43281ba">Image by pikisuperstar</a> on Freepik`,
       },
       prism: {

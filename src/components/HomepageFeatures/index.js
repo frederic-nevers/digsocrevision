@@ -16,8 +16,7 @@ const FeatureList = [
           <li><a href="/docs/category/3-content">Content</a></li>
           <li><a href="/docs/category/4-contexts">Contexts</a></li>
         </ol>
-        <a href="https://www.freepik.com/free-vector/student-guy-studying-internet-watching-online-lecture-computer-talking-math-tutor-through-video-call-cartoon-illustration_12699851.htm#query=textbook&position=22&from_view=search&track=sph&uuid=6facc644-8780-4925-86ae-2507a197ec3e">Image by pch.vector</a> on Freepik
-      </>
+        <a href="https://www.freepik.com/free-vector/student-guy-studying-internet-watching-online-lecture-computer-talking-math-tutor-through-video-call-cartoon-illustration_12699851.htm#query=textbook&position=22&from_view=search&track=sph&uuid=6facc644-8780-4925-86ae-2507a197ec3e" style={{ fontSize: '0.8em', fontStyle: 'italic' }}>Image by pch.vector</a></>
     ),
   },
   {
@@ -26,10 +25,15 @@ const FeatureList = [
     description: (
       <>
         Keep up to date with the latest Digital Society news and resources.
-        <br /><br /> 
-        <a href="https://www.freepik.com/free-vector/hand-holding-smartphones-with-online-newspaper-newsletter-weblog_20827768.htm#query=news&position=2&from_view=search&track=sph&uuid=f9c13221-c28e-4637-9f21-8a00042ba6b9">Image by pch.vector</a> on Freepik
+        <br /><br />
+        <ol className={styles.listItem}>
+          <li><a href="/docs/news">News</a></li>
+          <li><a href="/docs/resources">Resources</a></li>
+        </ol>
+        <br /><br />
+        <a href="https://www.freepik.com/free-vector/hand-holding-smartphones-with-online-newspaper-newsletter-weblog_20827768.htm#query=news&position=2&from_view=search&track=sph&uuid=f9c13221-c28e-4637-9f21-8a00042ba6b9" style={{ fontSize: '0.8em', fontStyle: 'italic' }}>Image by pch.vector</a>
       </>
-      
+
     ),
   },
   {
@@ -37,7 +41,7 @@ const FeatureList = [
     Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
-        Tips, Past exam questions. 
+        Tips, Past exam questions.
         <br /><br />
         <ol className={styles.listItem}>
           <li><a href="/docs/exams/1-paper-1">Paper 1</a></li>
@@ -45,13 +49,13 @@ const FeatureList = [
           <li><a href="/docs/exams/3-ia">Internal Assessment</a></li>
         </ol>
         <br /><br />
-        <a href="https://www.freepik.com/free-vector/online-education-concept_10717808.htm#query=exam&position=5&from_view=search&track=sph&uuid=8e1b3d6f-3d7f-4b9f-9d9f-0f7f0b9f9b8b">Image by pch.vector</a> on Freepik
+        <a href="https://www.freepik.com/free-vector/online-education-concept_10717808.htm#query=exam&position=5&from_view=search&track=sph&uuid=8e1b3d6f-3d7f-4b9f-9d9f-0f7f0b9f9b8b" style={{ fontSize: '0.8em', fontStyle: 'italic' }}>Image by pch.vector</a>
       </>
     ),
   },
 ];
 
-function Feature({Svg, title, description}) {
+function Feature({ Svg, title, description }) {
   return (
     <div className={clsx('col col--4')}>
       <div className="text--center">

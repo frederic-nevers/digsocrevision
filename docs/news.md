@@ -60,8 +60,6 @@ As a Digital Society student, it is vital you keep track of the news.
 
 3. **[CNET](https://www.youtube.com/user/CNETTV)**: Product reviews, news, and how-to guides related to consumer technology and electronics.
 
-4. **[CGP Grey](https://www.youtube.com/greymatter)**: Educational videos on various topics, including technology, politics, and social issues.
-
 ## 🌐 Other useful sources
 
 1. **[Pew Research Center](https://www.pewresearch.org/internet/)** (*USA*): Nonpartisan think tank providing data and analysis on the impact of technology on society.

@@ -40,6 +40,7 @@ Overall tip: make sure you use all of the resources available to you: book, this
 ### Criterion E (Share)
 🔜 Coming soon
 
+
 ## 🌍 Sample Projects (IBO)
 The IB has provided us with some sample projects, with the grades awarded. None of them are perfect, but it gives us an idea of what it needs to look like. 
 

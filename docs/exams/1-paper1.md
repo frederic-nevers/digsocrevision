@@ -7,6 +7,12 @@ title: Paper 1
 
 Structured questions that address the common SL and HL syllabus and real-world examples in an integrated way.
 
+:::info
+
+The Digital Society textbook contains helpful information pages 380-388
+
+:::
+
 ## Basics
 
 |Level| Duration | # Questions| Marks | Worth | 

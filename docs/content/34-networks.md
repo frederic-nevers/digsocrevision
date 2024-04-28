@@ -6,10 +6,11 @@ tags:
   - Networks
   - Internet
 ---
-## Video explainer
+## 🎬 Video playlist
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=SDvSsjWwzT4uhhND&amp;list=PLCiOXwirraUBTvNqtGjhmmMZEakj7smtW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-## Mindmap
+## 🤯 Mindmap
 ```mermaid
 mindmap
     )🌐 Networks and the Internet(
@@ -67,10 +68,10 @@ mindmap
             Trolling
 ```
 
-## Flashcards
+## 🧠 Flashcards
 <iframe src="https://quizlet.com/854054161/learn/embed?i=26rc5y&x=1jj1" height="500" width="100%"></iframe>
 
-## Notes
+## 📝 Notes
 
 ### Types of Computing Networks
 - **Connection type**:

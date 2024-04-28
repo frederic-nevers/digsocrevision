@@ -5,12 +5,11 @@ title: 3.7 Robots and Autonomous Technologies
 tags:
   - AI
 ---
-## Video explainer
+## 🎬 Video playlist
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=e4MsQ61aMs4VzS9v&amp;list=PL4UlCwuOc83nLzD-ijQO5pkWRKiE1kQVf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-
-
-## Mindmap
+## 🤯 Mindmap
 ```mermaid
 
 mindmap
@@ -44,11 +43,11 @@ mindmap
 
 ```
 
-## Flashcards
+## 🧠 Flashcards
 
 <iframe src="https://quizlet.com/854378089/learn/embed?i=26rc5y&x=1jj1" height="500" width="100%"></iframe>
 
-## Notes
+## 📝 Notes
 
 ### Types of Robots and Autonomous Technologies
 - **Robots**: Machines designed to carry out complex tasks automatically or with varying degrees of human control.

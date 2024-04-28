@@ -5,9 +5,11 @@ title: 3.1 Data
 tags:
   - Data
 ---
-## Video explainer
+## 🎬 Video playlist
 
-## Mindmap
+<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=EuTHG9w-R7IexuwV&amp;list=PL4UlCwuOc83lraEOlPeDgCUYuqUipToYw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 🤯 Mindmap
 ```mermaid
 
 mindmap
@@ -49,10 +51,10 @@ mindmap
       (Personally Identifiable Information)
 ```
 
-## Flashcards
+## 🧠 Flashcards
 <iframe src="https://quizlet.com/854080855/learn/embed?i=26rc5y&x=1jj1" height="500" width="100%"></iframe>
 
-## Notes
+## 📝 Notes
 
 ### Data vs. Information vs. Knowledge vs. Wisdom
 - **Data**: Raw, unorganized facts and figures.
@@ -67,7 +69,7 @@ mindmap
 - **Meteorological, Transport, Scientific, Statistical**: Data related to weather, transportation, scientific research, and statistics.
 - **Metadata**: Data that describes other data.
 
-### Uses of Data
+### Uses of Data [🎬](https://www.youtube.com/watch?v=v-X2FS7PZ_k)
 - **Identify Trends**: Recognizing patterns and changes in data over time.
 - **Identify Patterns**: Discovering recurring themes or regularities in data.
 - **Identify Connections**: Uncovering relationships and links between different data points.

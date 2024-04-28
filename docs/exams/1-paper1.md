@@ -18,7 +18,7 @@ The Digital Society textbook contains helpful information pages 380-388
 |Level| Duration | # Questions| Marks | Worth | 
 |------|-------|----|----|---|
 | SL | 1h30min| Answer **two** of four | 40 marks | 40%|
-| HL | 2h15min| - Section A: Answer **two** of three <br/> - Section B: Answer **one** of two| 60 marks | 35%|
+| HL | 2h15min| - Section A: Answer **two** of three <br/> - Section B: Answer **one** of two| 52 marks | 35%|
 
 :::danger
 

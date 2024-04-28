@@ -5,10 +5,11 @@ title: 3.2 Algorithms and Code
 tags:
   - Algorithms
 ---
-## Video explainer
+## 🎬 Video playlist
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/CvSOaYi89B4?si=f75kKvOu-jbw7MHC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-## Mindmap
+## 🤯 Mindmap
 ```mermaid
 
 mindmap
@@ -55,10 +56,10 @@ mindmap
         Loss
 ```
 
-## Flashcards
+## 🧠 Flashcards
 <iframe src="https://quizlet.com/854061388/learn/embed?i=26rc5y&x=1jj1" height="500" width="100%"></iframe>
 
-## Notes
+## 📝 Notes
 
 ### Characteristics
 - **Unambiguous**: Each step is clear and precise, leaving no room for interpretation.

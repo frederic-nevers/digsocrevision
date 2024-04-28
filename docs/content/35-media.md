@@ -5,9 +5,11 @@ title: 3.5 Media
 tags:
   - Media
 ---
-## Video explainer
+## 🎬 Video playlist
 
-## Mindmap
+<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=hrQsKetHpbfT4bvQ&amp;list=PL8dPuuaLjXtM6jSpzb5gMNsx9kdmqBfmY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 🤯 Mindmap
 ```mermaid
 
 mindmap
@@ -48,11 +50,11 @@ mindmap
 			Decency Standards, Offensive Speech, Objectionable Content
 ```
 
-## Flashcards
+## 🧠 Flashcards
 
 <iframe src="https://quizlet.com/854059503/learn/embed?i=26rc5y&x=1jj1" height="500" width="100%"></iframe>
 
-## Notes
+## 📝 Notes
 
 ### Types of Digital Media
 - **Text**: Written content in digital form, such as articles, e-books, or digital documents.

@@ -6,10 +6,11 @@ tags:
   - Computers
 ---
 
-## Video explainer
+## 🎬 Video playlist
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=yXjTeLlGZyQnLvXy&amp;list=PLzdnOPI1iJNcsRwJhvksEo1tJqjIqWbN-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-## Mindmap
+## 🤯 Mindmap
 ```mermaid
 mindmap
   )💻 Computers(
@@ -55,11 +56,11 @@ mindmap
     	  Quantum Computing
 ```
 
-## Flashcards
+## 🧠 Flashcards
 
 <iframe src="https://quizlet.com/854050909/learn/embed?i=26rc5y&x=1jj1" height="500" width="100%"></iframe>
 
-## Notes
+## 📝 Notes
 
 ### Types of Computers
 - **Mainframe**: Large, powerful computers used for high-volume data processing and critical applications.

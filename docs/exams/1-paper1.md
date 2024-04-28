@@ -9,7 +9,7 @@ Structured questions that address the common SL and HL syllabus and real-world e
 
 :::info
 
-The Digital Society textbook contains helpful information pages 380-388
+📕 The Digital Society textbook contains helpful information pages 380-388
 
 :::
 
@@ -28,6 +28,7 @@ Make sure to answer the correct number of questions! Sometimes, students answer 
 
 ## Question Format
 
+### SL and HL Section A
 - All questions are out of 20 marks.
 - All questions follow the same pattern, as below.
 
@@ -36,6 +37,10 @@ Make sure to answer the correct number of questions! Sometimes, students answer 
 | Part a | 6 marks | AO1 | - Knowledge and understanding.<br/>- Can subdivided into multiple parts *(e.g. 3 questions out of 2 marks each)* |
 | Part b | 6 marks | AO2 | - Application and analysis.<br/>- Can be subdivided into multiple parts *(e.g. 2 questions out of 3 marks each, or one out of two and one out 4)* |
 | Part c | 8 marks | AO3 | Evaluation and synthesis. |
+
+### HL Section B
+
+🔜 Coming soon
 
 
 ## Practice questions

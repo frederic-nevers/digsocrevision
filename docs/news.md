@@ -4,7 +4,7 @@ id: news
 title: 🗞️ News
 ---
 
-As a Digital Society student, it is vital you keep track of the news.
+As a Digital Society student, it is vital you keep track of the news. Here are some sources for you to consider.
 
 ## 📰 Newspapers
 

@@ -4,6 +4,7 @@ id: 21-change
 title: 2.1 Change
 tags:
   - Change
+description: test
 ---
 
 The rapid pace of technological innovation and the proliferation of digital systems have brought about unprecedented change in society. From the way we communicate and interact with each other to the way we work, learn, and conduct business, digital technologies have transformed nearly every aspect of our lives. The study of change in the digital age is a complex and multidisciplinary endeavor, drawing on insights from fields such as history, science and technology studies (STS), and future studies. For example, historians have explored how past technological revolutions, such as the [Industrial Revolution](https://www.history.com/topics/industrial-revolution/industrial-revolution) and the [Information Age](https://www.britannica.com/topic/Information-Age), have shaped society and culture, while STS scholars have examined the social, political, and ethical implications of emerging technologies such as [artificial intelligence](https://www.technologyreview.com/2021/06/25/1027133/ai-social-political-implications/) and [blockchain](https://www.sciencedirect.com/science/article/pii/S0160791X21000865).

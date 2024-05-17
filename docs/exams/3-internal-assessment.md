@@ -31,6 +31,59 @@ Overall tip: make sure you use all of the resources available to you: book, this
 - 📚 Keep track of the sources you do not use. They could come in handy later.
 - ℹ Don't forget to follow MLA for your source titles!
 
+- How to justify the usefulness of a source...
+<details>
+<summary>Source Origin and Purpose 🕵️‍♀️</summary>
+
+- Identify the author or creator of the source and their background or expertise in the subject matter.
+- Determine when and where the source was created or published.
+- Determine the intended audience for the source.
+- Identify the purpose of the source, such as to inform, persuade, entertain, or sell a product or idea.
+- Consider any potential biases or motivations of the author or publisher that may influence the content.
+- Does the context influence the writing?
+- CRAAP (Currency, Relevance, Authority, Accuracy, Purpose) to evaluate the source's origin and purpose.
+- Possible starter sentences
+    - The source, [title], was published by a [reputable... publisher/platform] on [date].
+    - The author of the source, [author name], is a [relevant background or expertise].
+    - [Publisher/platform] is known for [brief description of reputation or focus].
+    - The purpose of the source appears to be [inform/persuade/entertain/other].
+    - The source is potentially biased towards..., because...
+
+</details>
+
+<details>
+<summary>Meaning and Methods 📚</summary>
+
+- Extract the main ideas, arguments, or information presented in the source.
+- Identify the methods used to convey the information, such as text, images, videos, or interactive elements.
+- Determine how the chosen methods contribute to the effectiveness of the source in conveying its meaning.
+- Identify any limitations or strengths of the methods used.
+- Possible starter sentences
+    - The information presented in the source is [consistent/inconsistent] with [other sources/common knowledge] on the topic.
+    - The source [corroborates/contradicts] [specific information] found in [other source(s)].
+    - This source is useful for understanding [specific aspect of the topic] because [brief explanation].
+    - However, the source does not address [specific aspect], which may require additional sources for a more comprehensive understanding.
+    - The source fits into the broader context of [relevant field or subject] by [brief explanation].
+
+</details>
+
+<details>
+<summary>Corroboration and Use 🤝</summary>
+
+- Compare/contrast the information in the source with other reliable sources on the same topic.
+- Identify any similarities or differences in the information presented across sources.
+- Find out how the source corroborates or contradicts other sources, and the implications of this for the reliability of the information.
+- How does the source contributes to your understanding of the topic and supports your inquiry.
+- Consider the limitations of the source and any additional information that may be needed to fully address your inquiry.
+- Possible starter sentences
+    - The information presented in the source is [consistent/inconsistent] with [other sources/common knowledge] on the topic.
+    - The source [corroborates/contradicts] [specific information] found in [other source(s)].
+    - This source is useful for understanding [specific aspect of the topic] because [brief explanation].
+    - However, the source does not address [specific aspect], which may require additional sources for a more comprehensive understanding.
+    - The source fits into the broader context of [relevant field or subject] by [brief explanation].
+
+</details>
+
 ### Criterion C (Investigate)
 🔜 Coming soon
 

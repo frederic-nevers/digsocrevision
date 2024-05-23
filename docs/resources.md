@@ -16,6 +16,26 @@ Movies, series, documentaries, books and audiobooks can provide valuable insight
 
 4. **[Ex Machina](https://www.imdb.com/title/tt0470752/)**: This science fiction thriller explores the development of artificial intelligence and the potential consequences of creating sentient machines, touching on themes of ethics, consciousness, and the relationship between humans and AI.
 
+5. **[Her](https://www.imdb.com/title/tt1798709/)**: Set in a near-future Los Angeles, this film follows a man who develops a relationship with an intelligent computer operating system with a female voice, exploring themes of artificial intelligence, loneliness, and the nature of human connection in a technologically advanced world.
+
+6. **[The Final Cut](https://www.imdb.com/title/tt0364343/)**: In a future where implanted microchips can record a person's entire life, Robin Williams plays a "cutter" who edits these memories into a cohesive narrative after the person's death. The film raises questions about privacy, memory, and the impact of technology on our sense of self.
+
+7. **[Minority Report](https://www.imdb.com/title/tt0181689/)**: Based on a story by Philip K. Dick, this sci-fi thriller explores a future where police use psychics to arrest and convict murderers before they commit their crimes, touching on themes of surveillance, free will, and the potential consequences of predictive technology.
+
+8. **[The Net](https://www.imdb.com/title/tt0113957/)**: Released in 1995, this film follows a computer programmer whose identity is erased and replaced by a criminal record, highlighting the vulnerability of personal data in the early days of the internet and the potential for identity theft and manipulation.
+
+9. **[Disconnect](https://www.imdb.com/title/tt1433811/)**: This multi-narrative drama explores the impact of technology and the internet on human relationships, following several interconnected stories that deal with issues such as online bullying, identity theft, and the dark side of social media.
+
+10. **[The Fifth Estate](https://www.imdb.com/title/tt1837703/)**: This biographical thriller tells the story of WikiLeaks founder Julian Assange and the release of classified documents, raising questions about transparency, freedom of information, and the role of whistleblowers in the digital age.
+
+11. **[Sneakers](https://www.imdb.com/title/tt0105435/)**: This 1992 caper film follows a group of security experts who are blackmailed into stealing a top-secret black box capable of breaking any encryption code, touching on themes of privacy, surveillance, and the power of technology in the hands of both criminals and the government.
+
+12. **[Searching](https://www.imdb.com/title/tt7668870/)**: Told entirely through computer screens and smartphones, this thriller follows a father's desperate search for his missing daughter, showcasing the role of digital technology in modern life and the ways in which our online presence can be used to uncover the truth.
+
+13. **[I, Robot](https://www.imdb.com/title/tt0343818/)**: Loosely based on Isaac Asimov's short story collection, this sci-fi action film takes place in a future where robots are an integral part of society. When a robot is suspected of murder, a technophobic detective investigates, exploring themes of artificial intelligence, robot rights, and the potential dangers of advanced technology.
+
+14. **[Enemy of the State](https://www.imdb.com/title/tt0120660/)**: Released in 1998, this action thriller follows a lawyer who becomes the target of a corrupt NSA official and his team of surveillance experts, highlighting the potential for abuse of power and the erosion of privacy in the digital age.
+
 ## 📺 Series
 
 1. **[Black Mirror](https://www.imdb.com/title/tt2085059/)**: This anthology series explores various aspects of technology and its impact on society, often presenting dystopian or thought-provoking scenarios that highlight the potential dangers and unintended consequences of technological advancements.

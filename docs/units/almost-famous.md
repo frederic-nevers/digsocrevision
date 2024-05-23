@@ -18,26 +18,7 @@ The Internet has lowered barriers to fame and success, allowing anyone to create
 
 ## ❓ Inquiry Questions ❓
 
-### Debatable
-<details>
-<summary>🤔 Should internet fame be considered a legitimate form of success or is it merely a fleeting and superficial phenomenon?</summary>
 
-- Internet fame can provide a platform for individuals to showcase their talents and reach a wide audience, leading to real opportunities and success
-- However, internet fame is often short-lived and can be based on superficial factors such as appearance or viral content rather than genuine talent or hard work
-- The metrics of internet fame, such as likes and followers, may not always translate to meaningful success or fulfillment in the real world
-- The pressure to maintain internet fame can lead to a focus on creating content for the sake of popularity rather than authentic self-expression
-
-</details>
-
-<details>
-<summary>🧠 TOK CONNECTION: Does the anonymity of the internet foster a more diverse and accepting subculture, or does it encourage more extreme and polarizing viewpoints?</summary>
-
-- The anonymity of the internet can allow individuals to express themselves more freely and connect with like-minded people, leading to the formation of diverse subcultures
-- However, anonymity can also embolden people to express more extreme or polarizing viewpoints without fear of real-world consequences
-- The lack of face-to-face interaction and accountability on the internet can lead to a breakdown in empathy and understanding between different groups
-- The algorithm-driven nature of many internet platforms can create echo chambers that reinforce existing beliefs and limit exposure to diverse perspectives
-
-</details>
 
 ### Content-based
 <details>
@@ -89,6 +70,27 @@ The Internet has lowered barriers to fame and success, allowing anyone to create
 - The ability to go viral on social media has created new paths to fame and success, based on factors like relatability, authenticity, and niche appeal
 - The attention economy of social media has led to a focus on metrics like followers, likes, and engagement, which can create pressure to constantly create and share content
 - The rise of influencer marketing has created new opportunities for individuals to monetize their online fame through sponsored content and brand partnerships
+
+</details>
+
+### Debatable
+<details>
+<summary>🤔 Should internet fame be considered a legitimate form of success or is it merely a fleeting and superficial phenomenon?</summary>
+
+- Internet fame can provide a platform for individuals to showcase their talents and reach a wide audience, leading to real opportunities and success
+- However, internet fame is often short-lived and can be based on superficial factors such as appearance or viral content rather than genuine talent or hard work
+- The metrics of internet fame, such as likes and followers, may not always translate to meaningful success or fulfillment in the real world
+- The pressure to maintain internet fame can lead to a focus on creating content for the sake of popularity rather than authentic self-expression
+
+</details>
+
+<details>
+<summary>🧠 TOK CONNECTION: Does the anonymity of the internet foster a more diverse and accepting subculture, or does it encourage more extreme and polarizing viewpoints?</summary>
+
+- The anonymity of the internet can allow individuals to express themselves more freely and connect with like-minded people, leading to the formation of diverse subcultures
+- However, anonymity can also embolden people to express more extreme or polarizing viewpoints without fear of real-world consequences
+- The lack of face-to-face interaction and accountability on the internet can lead to a breakdown in empathy and understanding between different groups
+- The algorithm-driven nature of many internet platforms can create echo chambers that reinforce existing beliefs and limit exposure to diverse perspectives
 
 </details>
 

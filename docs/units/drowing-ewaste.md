@@ -17,40 +17,6 @@ Technology can be both beneficial and detrimental to the environment. It can off
 
 ## ❓ Inquiry Questions ❓
 
-### Concept-based
-<details>
-<summary>🌍 How do factors such as technology obsolescence, changing consumer preferences, and market saturation impact the product life cycle for tech products?</summary>
-
-- Technology obsolescence, driven by rapid advancements and the introduction of new features and capabilities, can shorten the useful life of tech products and encourage premature replacement
-- Changing consumer preferences, such as the desire for the latest and greatest devices or the adoption of new technology standards, can also contribute to the early disposal of functional products
-- Market saturation, where a high percentage of the target market already owns a particular type of device, can lead to increased competition and pressure to innovate, further accelerating product turnover
-- These factors can lead to a "throwaway culture" where devices are seen as disposable rather than durable, contributing to the growing e-waste problem
-
-</details>
-
-### Debatable
-<details>
-<summary>🤔 Is technology a net positive or negative for the environment, and how can we ensure that technological advances are used in ways that promote sustainability and protect natural resources for future generations?</summary>
-
-- Technology has the potential to create more efficient and sustainable processes, such as renewable energy systems, smart grids, and precision agriculture, which can help reduce environmental impacts
-- However, the production, use, and disposal of technology products also contribute to environmental problems, such as resource depletion, greenhouse gas emissions, and e-waste
-- The rapid pace of technological change and the increasing demand for technology products can exacerbate these negative impacts, as devices become obsolete more quickly and are replaced more frequently
-- To ensure that technology advances are used in ways that promote sustainability, we need to consider the entire life cycle of products, from raw material extraction to end-of-life disposal, and develop circular economy approaches that prioritize reuse, repair, and recycling
-- We also need to invest in research and development of clean technologies, create incentives for sustainable innovation, and promote responsible consumption and production practices
-
-</details>
-
-<details>
-<summary>🧠 TOK CONNECTION: Who should be responsible for addressing the growing problem of e-waste: governments, manufacturers, consumers, or some combination of all three, and how can we ensure that e-waste is disposed of responsibly and sustainably?</summary>
-
-- Governments have a role to play in creating and enforcing regulations around e-waste management, setting standards for product design and disposal, and investing in infrastructure for collection and recycling
-- Manufacturers have a responsibility to design products that are more durable, repairable, and recyclable, and to take back and properly dispose of their products at the end of their useful life
-- Consumers have a responsibility to make informed purchasing decisions, to properly maintain and repair their devices, and to dispose of them responsibly when they are no longer needed
-- All three groups need to work together to create a more sustainable system for managing e-waste, through a combination of regulations, incentives, education, and voluntary initiatives
-- To ensure that e-waste is disposed of responsibly and sustainably, we need to invest in safe and efficient recycling infrastructure, promote the recovery and reuse of valuable materials, and minimize the export of e-waste to countries with weaker environmental and labor standards
-
-</details>
-
 ### Content-based
 <details>
 <summary>💻 What are the main components of a computer system, and how do they work together to process and store data?</summary>
@@ -85,6 +51,40 @@ Technology can be both beneficial and detrimental to the environment. It can off
 - Output devices, such as monitors and printers, display or print the results of the computer's processing
 - Monitors use pixels to display text, images, and video, while printers use ink or toner to create physical copies of digital documents
 - Together, the CPU, input devices, and output devices form the core components of a computer system, allowing users to enter and manipulate data, and see the results of their work
+
+</details>
+
+### Concept-based
+<details>
+<summary>🌍 How do factors such as technology obsolescence, changing consumer preferences, and market saturation impact the product life cycle for tech products?</summary>
+
+- Technology obsolescence, driven by rapid advancements and the introduction of new features and capabilities, can shorten the useful life of tech products and encourage premature replacement
+- Changing consumer preferences, such as the desire for the latest and greatest devices or the adoption of new technology standards, can also contribute to the early disposal of functional products
+- Market saturation, where a high percentage of the target market already owns a particular type of device, can lead to increased competition and pressure to innovate, further accelerating product turnover
+- These factors can lead to a "throwaway culture" where devices are seen as disposable rather than durable, contributing to the growing e-waste problem
+
+</details>
+
+### Debatable
+<details>
+<summary>🤔 Is technology a net positive or negative for the environment, and how can we ensure that technological advances are used in ways that promote sustainability and protect natural resources for future generations?</summary>
+
+- Technology has the potential to create more efficient and sustainable processes, such as renewable energy systems, smart grids, and precision agriculture, which can help reduce environmental impacts
+- However, the production, use, and disposal of technology products also contribute to environmental problems, such as resource depletion, greenhouse gas emissions, and e-waste
+- The rapid pace of technological change and the increasing demand for technology products can exacerbate these negative impacts, as devices become obsolete more quickly and are replaced more frequently
+- To ensure that technology advances are used in ways that promote sustainability, we need to consider the entire life cycle of products, from raw material extraction to end-of-life disposal, and develop circular economy approaches that prioritize reuse, repair, and recycling
+- We also need to invest in research and development of clean technologies, create incentives for sustainable innovation, and promote responsible consumption and production practices
+
+</details>
+
+<details>
+<summary>🧠 TOK CONNECTION: Who should be responsible for addressing the growing problem of e-waste: governments, manufacturers, consumers, or some combination of all three, and how can we ensure that e-waste is disposed of responsibly and sustainably?</summary>
+
+- Governments have a role to play in creating and enforcing regulations around e-waste management, setting standards for product design and disposal, and investing in infrastructure for collection and recycling
+- Manufacturers have a responsibility to design products that are more durable, repairable, and recyclable, and to take back and properly dispose of their products at the end of their useful life
+- Consumers have a responsibility to make informed purchasing decisions, to properly maintain and repair their devices, and to dispose of them responsibly when they are no longer needed
+- All three groups need to work together to create a more sustainable system for managing e-waste, through a combination of regulations, incentives, education, and voluntary initiatives
+- To ensure that e-waste is disposed of responsibly and sustainably, we need to invest in safe and efficient recycling infrastructure, promote the recovery and reuse of valuable materials, and minimize the export of e-waste to countries with weaker environmental and labor standards
 
 </details>
 

@@ -36,6 +36,14 @@ Movies, series, documentaries, books and audiobooks can provide valuable insight
 
 14. **[Enemy of the State](https://www.imdb.com/title/tt0120660/)**: Released in 1998, this action thriller follows a lawyer who becomes the target of a corrupt NSA official and his team of surveillance experts, highlighting the potential for abuse of power and the erosion of privacy in the digital age.
 
+15. **[WarGames](https://www.imdb.com/title/tt0086567/)**: In this 1983 sci-fi thriller, a young hacker accidentally accesses a United States military supercomputer designed to predict possible outcomes of nuclear war, inadvertently causing a nuclear crisis and highlighting the dangers of advanced technology and the potential for unintended consequences.
+
+16. **[Bicentennial Man](https://www.imdb.com/title/tt0182789/)**: Based on a story by Isaac Asimov, this film follows a robot played by Robin Williams who, over the course of 200 years, develops human emotions and desires, exploring themes of artificial intelligence, humanity, and the nature of consciousness.
+
+17. **[A.I. Artificial Intelligence](https://www.imdb.com/title/tt0212720/)**: Directed by Steven Spielberg, this sci-fi drama is set in a future where humanoid robots called "mechas" are common. The story follows a highly advanced mecha child who longs to become a real boy, touching on themes of love, humanity, and the relationship between humans and artificial beings.
+
+18. **[Pirates of Silicon Valley](https://www.imdb.com/title/tt0168122/)**: This 1999 biographical drama chronicles the early years of the personal computer revolution and the rivalry between Apple's Steve Jobs and Microsoft's Bill Gates, offering insights into the cutthroat nature of the tech industry and the personalities that shaped it.
+
 ## 📺 Series
 
 1. **[Black Mirror](https://www.imdb.com/title/tt2085059/)**: This anthology series explores various aspects of technology and its impact on society, often presenting dystopian or thought-provoking scenarios that highlight the potential dangers and unintended consequences of technological advancements.
@@ -53,6 +61,8 @@ Movies, series, documentaries, books and audiobooks can provide valuable insight
 3. **[The Age of AI](https://www.imdb.com/title/tt8421554)**: This documentary series, hosted by Robert Downey Jr., explores the development and potential impact of artificial intelligence on various aspects of society, including healthcare, education, and the workforce.
 
 4. **[Lo and Behold, Reveries of the Connected World](https://www.imdb.com/title/tt5275828/)**: Directed by Werner Herzog, this documentary explores the history and impact of the internet on society, featuring interviews with notable figures in the tech industry and beyond, and offering philosophical reflections on the digital age.
+
+5. **[Citizenfour](https://www.imdb.com/title/tt4044364/)**: This 2014 documentary follows filmmaker Laura Poitras and journalist Glenn Greenwald as they meet with Edward Snowden in Hong Kong, where he shares the NSA documents that would lead to revelations about mass surveillance by the U.S. government, raising critical questions about privacy, national security, and the role of whistleblowers in the digital age.
 
 ## 📚 Books 
 

@@ -85,7 +85,84 @@ Overall tip: make sure you use all of the resources available to you: book, this
 </details>
 
 ### Criterion C (Investigate)
-🔜 Coming soon
+
+In this criterion, you will need to produce a video/narrated multimedia presentation. Here are the key requirements for the structure of the Digital Society IA presentation/video.
+
+<details>
+<summary>Overall Requirements</summary>
+- Maximum 10 minutes in length (aim for 9min59s)
+- Should include a combination of modes and media including text, still and moving images, and sound
+- Must contain an audible recorded commentary in your voice throughout (AI voice can be used, but own voice is preferred)
+- Should be well-organised and use media coherently to support understanding - must follow structure below!
+- All text must be legible when viewed on screen
+</details>
+
+#### Structure
+Your work must follow the structure below, which **must** be visible throughout your work
+- Introduction
+- Analysis and Evaluation
+- Conclusion
+
+<details>
+<summary>Introduction</summary>
+- Re-state the inquiry focus and briefly outline its significance for digital society
+- Must include the same inquiry focus provided in the Inquiry Process Document (IPD)
+</details>
+
+<details>
+<summary>Analysis and Evaluation</summary>
+- This should comprise the bulk of the presentation
+- Your own sustained and well-supported analysis and evaluation of impacts and implications of the digital systems for people and communities
+- Should integrate your own thinking supported by evidence
+</details>
+
+<details>
+<summary>Conclusion</summary>
+- Provide further insight reflecting your new understanding and ideas about your inquiry focus following the analysis and evaluation
+- Include a discussion of emerging trends and future developments
+- Should be well-supported and relevant to the preceding analysis and evaluation
+</details>
+
+Below are some tips
+
+#### Planning and Structure:
+- Plan and storyboard the presentation
+- Keep it concise and focused (aim for 8-9 minutes)
+- Include clear sections/signposting
+- Ensure structure aligns with assessment criteria
+
+#### Visual Design:
+- Use clear, professional visuals
+- Maintain a consistent visual style and color scheme
+- Use transitions between slides/scenes sparingly and purposefully
+- Include a mix of media (slides, images, video clips, animations)
+- Use charts, graphs or infographics to present data visually
+
+#### Audio:
+- Narrate clearly with scripted and rehearsed narration
+- Balance audio and visuals
+- Consider using background music at a low volume if appropriate
+
+#### Content:
+- Focus on key points related to your inquiry question and analysis
+- Emphasize analysis and evaluation, not just description
+- Cite sources properly (in-text and full citations)
+
+#### Post-Production:
+- Edit carefully (trim content, ensure smooth transitions, check audio quality)
+- Review against assessment criteria
+- Get feedback and refine
+- Test the final version on different devices
+
+#### Recommended Apps:
+- Video/Presentation: PowerPoint, iMovie, Keynote, Adobe Premiere Rush, Clips, Canva
+- Screen Recording: QuickTime Player (Mac), built-in Screen Recording (iPad/iPhone)
+- Audio Recording: GarageBand, Voice Memos
+- Graphic Design: Pixelmator, Procreate, Canva
+- Data Visualization: Numbers, Infogram, Tableau
+
+
+
 
 ### Criterion D (Reflect)
 🔜 Coming soon

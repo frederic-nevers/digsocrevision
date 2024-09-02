@@ -123,45 +123,55 @@ Your work must follow the structure below, which **must** be visible throughout 
 - Should be well-supported and relevant to the preceding analysis and evaluation
 </details>
 
-Below are some tips
+#### Tips for your multimedia presentation/video
 
-#### Planning and Structure:
+<details>
+<summary>Planning and Structure</summary>
 - Plan and storyboard the presentation
 - Keep it concise and focused (aim for 8-9 minutes)
 - Include clear sections/signposting
 - Ensure structure aligns with assessment criteria
+</details>
 
-#### Visual Design:
+<details>
+<summary>Visual Design</summary>
 - Use clear, professional visuals
 - Maintain a consistent visual style and color scheme
 - Use transitions between slides/scenes sparingly and purposefully
 - Include a mix of media (slides, images, video clips, animations)
 - Use charts, graphs or infographics to present data visually
+</details>
 
-#### Audio:
+<details>
+<summary>Audio</summary>
 - Narrate clearly with scripted and rehearsed narration
 - Balance audio and visuals
 - Consider using background music at a low volume if appropriate
+</details>
 
-#### Content:
+<details>
+<summary>Content</summary>
 - Focus on key points related to your inquiry question and analysis
 - Emphasize analysis and evaluation, not just description
 - Cite sources properly (in-text and full citations)
+</details>
 
-#### Post-Production:
+<details>
+<summary>Post-Production</summary>
 - Edit carefully (trim content, ensure smooth transitions, check audio quality)
 - Review against assessment criteria
 - Get feedback and refine
 - Test the final version on different devices
+</details>
 
-#### Recommended Apps:
+<details>
+<summary>Recommended Apps</summary>
 - Video/Presentation: PowerPoint, iMovie, Keynote, Adobe Premiere Rush, Clips, Canva
 - Screen Recording: QuickTime Player (Mac), built-in Screen Recording (iPad/iPhone)
 - Audio Recording: GarageBand, Voice Memos
 - Graphic Design: Pixelmator, Procreate, Canva
 - Data Visualization: Numbers, Infogram, Tableau
-
-
+</details>
 
 
 ### Criterion D (Reflect)

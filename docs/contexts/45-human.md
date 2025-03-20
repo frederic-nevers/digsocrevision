@@ -8,8 +8,6 @@ tags:
 
 ## Mindmap
 
-Sure, let's enhance the 4.5 Human Knowledge context with a mind map, bullet points, emojis, and relevant examples.
-
 ```mermaid
 mindmap
   root)📚 4.5 Human Knowledge(
@@ -39,11 +37,11 @@ mindmap
 
 | Subtopic | Examples of uses | Positive impacts | Negative impacts |
 |----------|------------------|------------------|------------------|
-| 🏫 Design and delivery of formal education, for example, in schools and remote learning | - Learning management systems ([Canvas](https://www.instructure.com/canvas), [Blackboard](https://www.blackboard.com/)) <br/> - Video conferencing tools ([Zoom](https://zoom.us/), [Google Meet](https://meet.google.com/)) <br/> - Educational platforms ([Khan Academy](https://www.khanacademy.org/), [Coursera](https://www.coursera.org/)) | - Increased access to education <br/> - Flexibility and convenience for learners <br/> - Potential for personalized learning experiences | - Digital divide and unequal access to technology <br/> - Challenges in maintaining student engagement <br/> - Potential for reduced social interaction and development |
+| 🏫 Design and delivery of formal education, for example, in schools and remote learning | - Learning management systems ([Canvas](https://www.instructure.com/canvas), [Blackboard](https://www.blackboard.com/)) <br/> - Video conferencing tools ([Zoom](https://zoom.us/), [Google Meet](https://meet.google.com/)) <br/> - Educational platforms ([Khan Academy](https://www.khanacademy.org/), [Coursera](https://www.coursera.org/)) | - Increased access to education <br/> - Flexibility and convenience for learners <br/> - Potential for personalised learning experiences | - Digital divide and unequal access to technology <br/> - Challenges in maintaining student engagement <br/> - Potential for reduced social interaction and development |
 | 📚 Approaches to non-formal and post-formal education, for example, skill training, competency development and self-directed learning | - Online course platforms ([Udemy](https://www.udemy.com/), [Skillshare](https://www.skillshare.com/)) <br/> - Professional networking sites ([LinkedIn Learning](https://www.linkedin.com/learning/)) <br/> - Language learning apps ([Duolingo](https://www.duolingo.com/), [Babbel](https://www.babbel.com/)) | - Lifelong learning opportunities <br/> - Accessible and affordable skill development <br/> - Potential for career advancement and job mobility | - Quality and credibility of some online courses <br/> - Risk of overwhelming learners with too many options <br/> - Potential for reduced hands-on or practical experience |
-| 💻 Digital pedagogies | - Flipped classroom model <br/> - Gamification of learning ([Kahoot!](https://kahoot.com/), [Quizlet](https://quizlet.com/)) <br/> - Adaptive learning platforms ([Knewton](https://www.knewton.com/), [DreamBox Learning](https://www.dreambox.com/)) | - Increased student engagement and motivation <br/> - Potential for data-driven personalization of learning <br/> - Enhanced collaboration and peer learning opportunities | - Overreliance on digital tools and platforms <br/> - Privacy concerns around student data collection <br/> - Potential for reduced human interaction and feedback |
+| 💻 Digital pedagogies | - Flipped classroom model <br/> - Gamification of learning ([Kahoot!](https://kahoot.com/), [Quizlet](https://quizlet.com/)) <br/> - Adaptive learning platforms ([Knewton](https://www.knewton.com/), [DreamBox Learning](https://www.dreambox.com/)) | - Increased student engagement and motivation <br/> - Potential for data-driven personalisation of learning <br/> - Enhanced collaboration and peer learning opportunities | - Overreliance on digital tools and platforms <br/> - Privacy concerns around student data collection <br/> - Potential for reduced human interaction and feedback |
 
-🗞️ **News item**: In 2020, the online learning platform Coursera reported a 644% increase in enrollments, with over 130,000 new registrations from U.S. learners, as the COVID-19 pandemic forced a rapid shift to remote learning and skill development. ([Source](https://about.coursera.org/press/2020/09/coursera-reports-644-percent-increase-in-new-enrollments-globally-this-year-as-the-pandemic-drives-unprecedented-demand-for-online-learning/))
+🗞️ **News item**: In 2020, the online learning platform Coursera reported a 644% increase in enrolments, with over 130,000 new registrations from U.S. learners, as the COVID-19 pandemic forced a rapid shift to remote learning and skill development. ([Source](https://about.coursera.org/press/2020/09/coursera-reports-644-percent-increase-in-new-enrolments-globally-this-year-as-the-pandemic-drives-unprecedented-demand-for-online-learning/))
 
 ### 🔬 4.5B Science and technology innovation
 

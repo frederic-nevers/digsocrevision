@@ -80,5 +80,5 @@ mindmap
 
 | Subtopic | Examples of uses | Positive impacts | Negative impacts |
 |----------|------------------|------------------|------------------|
-| 👦 Youth cultures | - Social media trends (TikTok challenges, Instagram influencers) <br/> - Online fan communities ([Wattpad](https://www.wattpad.com/), [AO3](https://archiveofourown.org/), [Tumblr](https://www.tumblr.com/)) | - Increased self-expression and connection with like-minded individuals <br/> - New forms of creativity and activism | - Peer pressure <br/> - Exclusion and discrimination <br/> - Exposure to inappropriate content |
+| 👦 Youth cultures | - Social media trends (TikTok challenges, Instagram influencers) <br/> - Online fan communities [Tumblr](https://www.tumblr.com/)) | - Increased self-expression and connection with like-minded individuals <br/> - New forms of creativity and activism | - Peer pressure <br/> - Exclusion and discrimination <br/> - Exposure to inappropriate content |
 | 💬 Online communities and forums | - [Reddit](https://www.reddit.com/) <br/> - [Discord](https://discord.com/) <br/> - [Facebook Groups](https://www.facebook.com/groups/) | - Support and information sharing <br/> - Formation of new social connections and identities | - Echo chambers <br/> - Radicalization and extremism <br/> - Cyberbullying and harassment |

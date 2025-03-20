@@ -25,4 +25,4 @@ Paper 2 is made up of four questions based on various sources that comprehensive
 
 
 ## Practice questions
-Click [here](/docs/exams/4-practice-questions) (🔐 password protected)
+Click [here](/docs/exams/5-practice-questions) (🔐 password protected)

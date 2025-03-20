@@ -44,4 +44,4 @@ Make sure to answer the correct number of questions! Sometimes, students answer 
 
 
 ## Practice questions
-Click [here](/docs/exams/4-practice-questions) (🔐 password protected)
+Click [here](/docs/exams/5-practice-questions) (🔐 password protected)

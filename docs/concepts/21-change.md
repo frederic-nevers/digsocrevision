@@ -6,7 +6,11 @@ tags:
   - Change
 ---
 
-The rapid pace of technological innovation and the proliferation of digital systems have brought about unprecedented change in society. From the way we communicate and interact with each other to the way we work, learn, and conduct business, digital technologies have transformed nearly every aspect of our lives. The study of change in the digital age is a complex and multidisciplinary endeavor, drawing on insights from fields such as history, science and technology studies (STS), and future studies. For example, historians have explored how past technological revolutions, such as the [Industrial Revolution](https://www.history.com/topics/industrial-revolution/industrial-revolution) and the [Information Age](https://www.britannica.com/topic/Information-Age), have shaped society and culture, while STS scholars have examined the social, political, and ethical implications of emerging technologies such as [artificial intelligence](https://www.technologyreview.com/2021/06/25/1027133/ai-social-political-implications/) and [blockchain](https://www.sciencedirect.com/science/article/pii/S0160791X21000865).
+The rapid pace of technological innovation and the proliferation of digital systems have brought about unprecedented change in society. From the way we communicate and interact with each other to the way we work, learn, and conduct business, digital technologies have transformed nearly every aspect of our lives. The study of change in the digital age is a complex and multidisciplinary endeavour, drawing on insights from fields such as history, science and technology studies (STS), and future studies. For example, historians have explored how past technological revolutions, such as the [Industrial Revolution](https://www.history.com/topics/industrial-revolution/industrial-revolution) and the [Information Age](https://www.britannica.com/topic/Information-Age), have shaped society and culture, while STS scholars have examined the social, political, and ethical implications of emerging technologies such as [artificial intelligence](https://www.technologyreview.com/2021/06/25/1027133/ai-social-political-implications/) and [blockchain](https://www.sciencedirect.com/science/article/pii/S0160791X21000865).
+
+## Definition
+
+Change is the evolution, transformation, adaptation, or movement from one form, state, or value to another. In digital society, change involves understanding and evaluating how people, ideas, objects, and forces shape the world: past, present, and future.
 
 ## Mindmap
 
@@ -28,7 +32,7 @@ mindmap
       (Social and Cultural Factors)
         [Changing values and norms]
         [Demographic shifts]
-        [Globalization]
+        [Globalisation]
       (Economic and Political Forces)
         [Market demand]
         [Government policies]
@@ -75,7 +79,7 @@ mindmap
   <summary>🧠 What obligations do we have toward future generations in the context of digital change?</summary>
 - Ensuring that technological development is sustainable and does not compromise the well-being of future generations
 - Promoting equity and access to the benefits of digital technologies across different populations and regions
-- Preserving digital heritage and ensuring the long-term accessibility of digital information and cultural artifacts
+- Preserving digital heritage and ensuring the long-term accessibility of digital information and cultural artefacts
 - Fostering critical thinking, digital literacy, and ethical decision-making skills to navigate the challenges and opportunities of the digital future
 </details>
 
@@ -100,6 +104,6 @@ mindmap
   <summary>🧠 How might past events, patterns, or trends help us to forecast future developments?</summary>
 - Studying historical analogues and precedents can provide insights into the potential trajectories and impacts of emerging technologies
 - Identifying recurring patterns or cycles in technological change can help anticipate future waves of innovation and disruption
-- Analyzing the social, economic, and political factors that have shaped past technological revolutions can inform our understanding of the forces driving current and future developments
+- Analysing the social, economic, and political factors that have shaped past technological revolutions can inform our understanding of the forces driving current and future developments
 - Engaging in speculative design and scenario planning exercises can help us envision and prepare for a range of possible futures
 </details>

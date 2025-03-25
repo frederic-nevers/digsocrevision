@@ -7,6 +7,10 @@ tags:
 ---
 The proliferation of digital creative tools and platforms has transformed the landscape of artistic expression. Digital art, music, and literature have emerged as new forms of creative expression that leverage the unique affordances of digital media, such as interactivity, generativity, and remixing. For example, the rise of [NFTs (non-fungible tokens)](https://www.nytimes.com/2022/03/18/arts/design/nft-art-market.html) has enabled digital artists to create and sell unique digital artworks, while also raising questions about the value, ownership, and authenticity of digital art. The expression of identity, culture, and politics through digital art and media has also become a powerful force for social change and activism, as seen in the use of digital art and hashtags in the [#BlackLivesMatter](https://www.nytimes.com/2020/06/23/arts/design/black-lives-matter-art.html) and [#MeToo](https://www.dazeddigital.com/artsandculture/article/43057/1/metoo-art-exhibition-denouncing-sexual-violence-tate-modern-london) movements.
 
+## Definition
+
+Expression is the act, process, or instance of representing ideas, emotions, and/or experiences using different modes and media. In digital society, expression serves many functions and both brings people together and introduces significant dilemmas.
+
 ## Mindmap
 
 ```mermaid
@@ -35,7 +39,7 @@ mindmap
       (Artistic Innovation)
         [Generative art]
         [Algorithmic music]
-        [Data visualization]
+        [Data visualisation]
       (Political Activism)
         [Hashtag campaigns]
         [Online petitions]
@@ -69,15 +73,15 @@ mindmap
 
 - 📖 **Storytelling**: Communicating narratives, experiences, or ideas through various forms (e.g., [digital novels](https://www.theguardian.com/books/booksblog/2015/jun/11/digital-novels-technology-new-fiction-forms), [web comics](https://www.cbr.com/best-webcomics-to-read-online/), [podcasts](https://www.thepodcasthost.com/storytelling/top-storytelling-podcasts/))
 - 🌍 **World-building**: Creating immersive and imaginative environments or universes (e.g., [video games](https://www.gamedesigning.org/worldbuilding-in-game-design/), [virtual worlds](https://www.genesisworlds.com/virtual-world-building-process/), [fan fiction](https://www.theguardian.com/books/2022/mar/26/how-fanfiction-became-the-ultimate-storytelling-universe))
-- 🎨 **Artistic innovation**: Pushing the boundaries of creative expression through digital tools and techniques (e.g., [generative art](https://www.artnome.com/news/2022/3/24/what-is-generative-art), [algorithmic music](https://www.musicradar.com/news/algorithmic-music-and-creativity), [data visualization](https://www.creativebloq.com/advice/data-visualization-art-projects))
-- ✊ **Political activism**: Using digital platforms to raise awareness, mobilize support, or effect change (e.g., [hashtag campaigns](https://www.nytimes.com/2021/10/20/style/hashtag-activism.html), [online petitions](https://www.change.org/), [digital protests](https://www.nytimes.com/2020/06/11/opinion/protests-digital-activism.html))
+- 🎨 **Artistic innovation**: Pushing the boundaries of creative expression through digital tools and techniques (e.g., [generative art](https://www.artnome.com/news/2022/3/24/what-is-generative-art), [algorithmic music](https://www.musicradar.com/news/algorithmic-music-and-creativity), [data visualisation](https://www.creativebloq.com/advice/data-visualization-art-projects))
+- ✊ **Political activism**: Using digital platforms to raise awareness, mobilise support, or effect change (e.g., [hashtag campaigns](https://www.nytimes.com/2021/10/20/style/hashtag-activism.html), [online petitions](https://www.change.org/), [digital protests](https://www.nytimes.com/2020/06/11/opinion/protests-digital-activism.html))
 
 <details>
   <summary>🧠 What different kinds of stories are possible through digital media?</summary>
 - Non-linear and interactive narratives that allow for user choice and exploration (e.g., choose-your-own-adventure stories, branching narratives in video games)
 - Transmedia storytelling that spans multiple platforms and formats (e.g., a story that unfolds across social media, websites, and physical locations)
 - Collaborative and crowdsourced storytelling that involves multiple creators and participants (e.g., fan fiction communities, Wikipedia)
-- Data-driven and generative stories that use algorithms and data sets to create unique narratives (e.g., personalized news feeds, procedurally generated game worlds)
+- Data-driven and generative stories that use algorithms and data sets to create unique narratives (e.g., personalised news feeds, procedurally generated game worlds)
 </details>
 
 ### 2.2C: Expression bringing people together and introducing dilemmas

@@ -9,6 +9,10 @@ tags:
 
 The development of facial recognition technologies raises significant ethical questions and challenges. Designers of these technologies must grapple with issues of privacy, consent, fairness, and accountability. Different ethical frameworks, such as utilitarianism (maximizing overall benefit) or deontology (respecting individual rights), may lead to conflicting recommendations for the design and deployment of facial recognition systems. Professional codes of ethics, such as the ACM Code of Ethics, provide guidance for designers to consider the potential harms and risks of their technologies, and to prioritize the well-being and rights of users and society. Laws and regulations, such as the EU's General Data Protection Regulation (GDPR), establish legal requirements and safeguards for the collection, use, and protection of biometric data. Ultimately, the ethical design of facial recognition technologies requires ongoing dialogue, scrutiny, and governance to ensure that they align with societal values and promote human flourishing.
 
+## Definition
+
+Values and ethics are ways to determine possible distinctions between right and wrong, fair and unfair, just and unjust, legal and illegal, proper and improper. They guide human action in the world and influence how ideas, objects, practices, systems, and spaces are shaped in digital society.
+
 ## Mindmap
 
 ```mermaid

@@ -8,6 +8,10 @@ tags:
 
 The rise of remote work and virtual collaboration tools during the COVID-19 pandemic has transformed the nature of work and the boundaries between physical and digital spaces. Platforms like [Zoom](https://zoom.us/), [Microsoft Teams](https://www.microsoft.com/en-us/microsoft-teams/group-chat-software), and [Slack](https://slack.com/) have enabled people to work, learn, and socialize from anywhere with an internet connection, blurring the lines between home and office, public and private, local and global. The shift to remote work has also highlighted issues of digital inequality, as access to reliable internet and suitable work environments remains uneven across different communities and regions. The example of remote work shows how digital technologies are reshaping the geography of human activity and interaction, creating new opportunities and challenges for individuals, organizations, and societies.
 
+## Definition
+
+Space refers to how humans organise, construct, and represent physical and virtual environments. In digital society, different spaces serve distinct functions, involve issues of access, movement, and flows, and can be understood through multiple scales and dimensions.
+
 ## Mindmap
 
 ```mermaid

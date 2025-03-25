@@ -8,6 +8,10 @@ tags:
 
 The dominance of tech giants like Google, Amazon, Facebook, and Apple (GAFA) exemplifies the concentration of power in the digital economy. These companies have amassed vast amounts of data, wealth, and influence through their control of key digital platforms and infrastructures, such as search engines, e-commerce marketplaces, social networks, and mobile operating systems. The power of [GAFA](https://www.nytimes.com/interactive/2022/10/18/technology/free-ad-instagram-facebook-snapchat.html) has raised concerns about monopolistic practices, data privacy, and the erosion of democratic institutions. At the same time, the rise of decentralized technologies like [blockchain](https://www.forbes.com/advisor/investing/cryptocurrency/blockchain-explained/) and [cryptocurrencies](https://www.nytimes.com/2023/03/20/technology/sam-bankman-fried-crypto-blockchain.html) has offered alternative visions of power distribution and governance in the digital world. The example of GAFA illustrates the complex interplay of corporate, governmental, and grassroots power in shaping the digital landscape.
 
+## Definition
+
+Power is a feature of all social relations that involves a person's or group's capacity to influence or control the actions of others. In digital society, power is structural and embedded within institutions, organizations, and governments, and is not equally distributed.
+
 ## Mindmap
 
 ```mermaid

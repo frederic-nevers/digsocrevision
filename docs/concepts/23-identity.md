@@ -8,6 +8,10 @@ tags:
 
 The phenomenon of social media influencers and online personal branding illustrates the complex dynamics of identity in digital society. Influencers curate and perform idealized versions of themselves on social media platforms, often blurring the lines between authenticity and self-promotion. The rise of [influencer culture](https://www.nytimes.com/2023/01/06/technology/influencer-social-media-culture.html) has also given rise to new forms of social comparison, self-esteem issues, and commodification of identity. At the same time, social media has enabled marginalized and underrepresented groups to assert their identities and build communities of support and solidarity. The example of influencers highlights the ways in which digital technologies shape the construction, expression, and negotiation of personal and collective identities in the digital age.
 
+## Definition
+
+Identity is a defining feature of a person, group, social entity, and/or community. In digital society, identity is not static but changes over time and according to context, and identities are intersectional with multiple overlapping aspects.
+
 ## Mindmap
 
 ```mermaid

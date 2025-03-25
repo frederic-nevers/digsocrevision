@@ -7,6 +7,10 @@ tags:
 ---
 Consider a ride-sharing platform like Uber as a digital system. It involves interacting elements such as users (riders and drivers), mobile devices, mapping technologies, payment systems, and algorithms for matching supply and demand. The platform is interdependent with broader transportation infrastructures, labor markets, and regulatory frameworks. The introduction of dynamic pricing algorithms on the platform had both intended consequences (improved service availability and efficiency) and unintended consequences (increased consumer costs and driver stress). Data visualizations of ride patterns and user feedback can help reveal insights and opportunities for improving the system's design and governance.
 
+## Definition
+
+Systems provide a way to think about structure and order in human, natural, and built environments. Systems involve sets of interacting, interdependent, and/or interconnected elements, where changes may generate intended and unintended consequences.
+
 ## Mindmap
 
 ```mermaid

@@ -26,6 +26,18 @@ Overall tip: make sure you use all of the resources available to you: book, this
 - ❤️ Pick a topic you love. You will spend a long time on the IA - you might as well pick something you find interesting.
 - 📝 Start using the IPD template right away (see above).
 
+#### Real-World Example
+- **Specific digital system**: Identify a **specific** existing digital system, not just a broad category.
+- **Contextual details**: Provide relevant information about when, where and how the digital system is being used.
+- **Relevant stakeholders**: Identify the people and communities affected by or using this digital system.
+- **Current relevance**: Explain why this example matters now (e.g., recent developments, statistics, incidents).
+
+
+#### Connections
+- **Specific identification**: Clearly identify which concept(s), content area(s), and context(s) from the Digital Society guide (e.g. 3.1.B Types of Meda).
+- **Explanation**: Explain specifically **how** each connects to both the inquiry question and/or the real-world example.
+- **Meaningful integration**: Show how these connections provide insight for the inquiry.
+
 ### Criterion B (Explore)
 - ⏰ Take your time. Finding good sources is time consuming.
 - 📚 Keep track of the sources you do not use. They could come in handy later.

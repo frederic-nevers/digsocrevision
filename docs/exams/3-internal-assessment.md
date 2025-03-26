@@ -26,17 +26,29 @@ Overall tip: make sure you use all of the resources available to you: book, this
 - ❤️ Pick a topic you love. You will spend a long time on the IA - you might as well pick something you find interesting.
 - 📝 Start using the IPD template right away (see above).
 
-#### Real-World Example
+<details>
+<summary>Inquiry Focus</summary>
+- **Clear Digital Society Focus**: Must directly relate to digital systems, technologies, or platforms. Should align with the digital society guide.Must be phrased to investigate impacts and implications
+- **Appropriate Scope** (Goldilocks zone): Focused enough to be thoroughly addressed within the project constraints. Not too narrow to limit meaningful analysis. Not too broad to become superficial in treatment
+- **Analytical Depth**: Phrased to encourage analysis beyond mere description. Often uses analytical command terms like "To what extent," "How," or "Why". Invites evaluation of both benefits and limitations.
+- **Measurable or Assessable**: Can be addressed through research and available evidence. Allows for concrete examples and specific analysis. Permits evaluation based on criteria that can be defined.
+- **Conceptual Engagement**: Provides opportunity to engage with key digital society concepts. Allows for meaningful discussion of ethical considerations. Enables substantive exploration of impacts on people and communities
+</details>
+
+<details>
+<summary>Real World Example</summary>
 - **Specific digital system**: Identify a **specific** existing digital system, not just a broad category.
 - **Contextual details**: Provide relevant information about when, where and how the digital system is being used.
 - **Relevant stakeholders**: Identify the people and communities affected by or using this digital system.
 - **Current relevance**: Explain why this example matters now (e.g., recent developments, statistics, incidents).
+</details>
 
-
-#### Connections
+<details>
+<summary>Connections</summary>
 - **Specific identification**: Clearly identify which concept(s), content area(s), and context(s) from the Digital Society guide (e.g. 3.1.B Types of Meda).
 - **Explanation**: Explain specifically **how** each connects to both the inquiry question and/or the real-world example.
 - **Meaningful integration**: Show how these connections provide insight for the inquiry.
+</details>
 
 ### Criterion B (Explore)
 - ⏰ Take your time. Finding good sources is time consuming.

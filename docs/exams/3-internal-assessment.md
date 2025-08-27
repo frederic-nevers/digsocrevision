@@ -83,8 +83,6 @@ Overall tip: make sure you use all of the resources available to you: book, this
 - Determine how the chosen methods contribute to the effectiveness of the source in conveying its meaning.
 - Identify any limitations or strengths of the methods used.
 - Possible starter sentences
-    - The information presented in the source is [consistent/inconsistent] with [other sources/common knowledge] on the topic.
-    - The source [corroborates/contradicts] [specific information] found in [other source(s)].
     - This source is useful for understanding [specific aspect of the topic] because [brief explanation].
     - However, the source does not address [specific aspect], which may require additional sources for a more comprehensive understanding.
     - The source fits into the broader context of [relevant field or subject] by [brief explanation].

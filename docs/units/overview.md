@@ -21,5 +21,6 @@ This page contains the units covered so far. Click on the units to see the 3Cs w
 ## Class of 2026
 - [Drowning in E-Waste](https://digsoc.fredericnevers.com/docs/units/Unit-6/)
 - [The Internet is under threat](https://digsoc.fredericnevers.com/docs/units/Unit-3/)
+- [Algorithmic Classroom](https://digsoc.fredericnevers.com/docs/units/Unit-11)
 - [Generative AI](https://digsoc.fredericnevers.com/docs/units/Unit-7)
 - [IA](https://digsoc.fredericnevers.com/docs/exams/3-ia)
